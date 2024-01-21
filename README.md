@@ -21,7 +21,17 @@ Bem-vindo ao repositório do "Número Secreto", um jogo de adivinhação desenvo
 
 7. Continue tentando até descobrir o número secreto.
 
-Recursos Utilizados
-HTML5
-CSS3
-JavaScript
+## Recursos Utilizados
+
+- **HTML5**: Utilizado para a estruturação da página.
+- **CSS3**: Estilo para melhorar a experiência de jogo.
+- **JavaScript**: Lógica do jogo e interatividade.
+
+## Estrutura do Projeto
+- **`index.html`**: Arquivo principal que contém a estrutura da página.
+- **`style.css`**: Estilo para melhorar a experiência de jogo.
+- **`app.js`**: Lógica do jogo em JavaScript.
+
+## Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar pull requests para melhorias.
+Divirta-se jogando e aprimorando suas habilidades de programação! 🚀
